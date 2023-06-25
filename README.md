@@ -2,8 +2,8 @@
 Class project for a Conference management App <br>
 Names                                    REG NUMBER                      DEPARTMENT
 
-1.NTAKIRUTIMANA ANGELIQUE                221009236                       COMPUTER SCIENCE
-1.MURASIRA BRIAN                         22                             COMPUTER SCIENCE  
+1.Ishimwe Pacifique                      221005961                       Information Technology
+1.Dushimimana Fiston                     221007878                       Information Technology  
 
 ## Scenario
 =========== <br>
